@@ -4,3 +4,6 @@
 *.bag
 !waist_diagnostics.bag
 !duck_dunk.bag
+
+# MacOS
+.DS_Store
